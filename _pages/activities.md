@@ -7,6 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
+# QURI Parts riqu
+量子コンピュータ・クラウドサービスにRESTでアクセスするためのインタフェースriqu (**R**EST **I**nterface for **Qu**antum Computing) を、量子回路ライブラリ[QURI Parts](https://quri-parts.qunasys.com/)から利用するためのパッケージを開発しています。(2023年～)  
+ * QURI Parts riqu Documentation [https://quri-parts-riqu.readthedocs.io/](https://quri-parts-riqu.readthedocs.io/)
+ * QURI Parts riqu Repository [https://github.com/qiqb-osaka/quri-parts-riqu](https://github.com/qiqb-osaka/quri-parts-riqu) 
+
+QURI Parts riquを利用して、理化学研究所等の共同研究グループが公開している量子計算クラウドサービスにアクセスできます。  
+(実際にアクセスするには利用申請が必要です)
+
+# 量子計算クラウドサービス
+理化学研究所等の共同研究グループが公開している[量子計算クラウドサービス](https://www.riken.jp/pr/news/2023/20230324_1/)の研究・開発・運用を行っています。(2023年～)  
+
 # 量子コンピュータ・クラウド基盤gaqqie
 量子コンピュータをクラウド・サービスとして提供するための基盤ソフトウェアを、オープンソース・ソフトウェアとして開発しています。(2021年～)  
 [https://github.com/gaqqie/gaqqie](https://github.com/gaqqie/gaqqie)
