@@ -11,3 +11,4 @@ venue: 'エンジニアスタイル'
  * 第3話　量子コンピュータの基本のルールを学ぼう [(記事)](https://www.r-staffing.co.jp/engineer/entry/20220608_1)
  * 第4話　基本の量子ゲートと量子回路をおさえよう [(記事)](https://www.r-staffing.co.jp/engineer/entry/20221007_1)
  * 第5話　量子プログラミングをやってみよう [(記事)](https://www.r-staffing.co.jp/engineer/entry/20221202_1)
+ * 最終話　現在の量子コンピュータの限界とこれから [(記事)](https://www.r-staffing.co.jp/engineer/entry/20230324_1)
