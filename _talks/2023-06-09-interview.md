@@ -1,5 +1,5 @@
 ---
-title: "クラウドで体験する量子コンピュータ"
+title: "インタビュー動画(Re・rise News)"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-06-09-interview
