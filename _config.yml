@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Satoyuki Tsukano"
   avatar           : "profile.jpg"
-  bio              : "Quantum Computer(QC) programmer / system software for QC / developing QC clouds"
+  bio              : "Quantum Computer(QC) engineer / system software for QC / developing QC clouds"
   location         : # "Location"
   employer         : "QIQB, Osaka University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=jb3xg5G4VC4J"
   email            :
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "satoyuki-tsukano"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-3825-9083"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
